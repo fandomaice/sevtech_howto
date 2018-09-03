@@ -1,0 +1,31 @@
+
+How To Install SevTech Ages (Client)
+
+1. download the modpack zipfile from the project page here:
+https://minecraft.curseforge.com/projects/sevtech-ages
+
+2. download MultiMC, an open-source tool for managing multiple minecraft
+instances (who knew there would ever be such a thing?). It is able to
+import modpacks and encapsulate them in their own launchable instance.
+https://multimc.org/#Download
+
+MultiMC is preferable to the Twitch launcher that seems to now be the "official"
+method of installing mods.
+
+3. Run MultiMC, select 'Add Instance', then 'load from zip file'
+and point it to the zipfile downloaded in the first step.
+
+NOTE: If this is your first time running MultiMC, you will have to
+add a valid mojang account in the preferences.
+
+that's all!
+
+Tweaks
+===
+There are a _ton_ of mods in this pack.
+When I launched with the default heap settings
+(min 512M, max 1024M) minecraft crashed before
+it could load all the mods.
+
+even bumping this to 1024/2048 left a lot
+of pressure on the heap.

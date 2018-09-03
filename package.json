@@ -1,0 +1,12 @@
+{
+  "name": "howto_server",
+  "version": "1.0.0",
+  "description": "little static server showing howto for installing sevtech ages",
+  "main": "server.js",
+  "repository": "sevtech.blingbing.net",
+  "author": "ian mcgaunn",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
